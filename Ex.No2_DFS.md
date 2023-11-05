@@ -34,7 +34,8 @@ dfs(visited, graph, '5')
 ```
 ### Output:
 
-![image](https://github.com/HariHaranLK/AI_Lab_2023-24/assets/132996089/3c544b47-7e18-43a2-98dc-ef0050b29465)
+![image](https://github.com/Raghulshanmugam2004/AI_Lab_2023-24/assets/119561118/17bbd8e6-a3df-4dee-ace1-5a0ecd85edaf)
+
 
 ### Result:
 Thus the depth first search order was found sucessfully.
