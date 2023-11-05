@@ -40,7 +40,8 @@ bfs(visited, graph, '5')
 ```
 ### Output:
 
-![image](https://github.com/HariHaranLK/AI_Lab_2023-24/assets/132996089/f466a893-7d1f-46db-a717-d3e72dc4a709)
+![image](https://github.com/Raghulshanmugam2004/AI_Lab_2023-24/assets/119561118/e861d2ce-5c58-41e5-ac3d-46e2ecaf8aa4)
+
 
 
 ### Result:
